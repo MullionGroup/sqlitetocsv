@@ -8,7 +8,7 @@ with open('HISTORY.md') as history_file:
 
 setup_args = dict(
     name='sqlitetocsv',
-    version='0.1.0',
+    version='0.1.1',
     description='Useful package to export all the tables from sqlite db to csv files',
     long_description_content_type="text/markdown",
     long_description=README + '\n\n' + HISTORY,
